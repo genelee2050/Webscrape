@@ -68,7 +68,7 @@ def get_record_list(page_num, search_key):
 
 # other formats converted to yyyy-mm-dd
 def parse_date(s):
-    if re.match("\d{4}-\d{1,2}-\d{1,2}", s):
+    if re.match(r"\d{4}-\d{1,2}-\d{1,2}", s):
         return s
     else:
         return datetime.today().strftime("%Y-%m-%d")
