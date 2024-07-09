@@ -1,0 +1,1290 @@
+{
+    "64F3A12BB873D5092362D9933FF8DC57": {
+        "search_key": "嘉寓控股",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）京01破申676号",
+        "id": "64F3A12BB873D5092362D9933FF8DC57",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=64F3A12BB873D5092362D9933FF8DC57"
+    },
+    "5B73AEAB2B88AD5ACBBD78E9808FAE3B": {
+        "search_key": "洪涛集团",
+        "date": "2024-06-07",
+        "title": "[预重整公告] 关于深圳洪涛集团股份有限公司预重整公开招",
+        "id": "5B73AEAB2B88AD5ACBBD78E9808FAE3B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=5B73AEAB2B88AD5ACBBD78E9808FAE3B"
+    },
+    "F95EA66BBC17B8095B1871B85512C57F": {
+        "search_key": "洪涛集团",
+        "date": "2024-05-30",
+        "title": "[招募投资人公告] 深圳洪涛集团股份有限公司临时管理人关于公",
+        "id": "F95EA66BBC17B8095B1871B85512C57F",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=F95EA66BBC17B8095B1871B85512C57F"
+    },
+    "CF05A9B4DD29B9FE4B1D8A0F3701E55B": {
+        "search_key": "洪涛集团",
+        "date": "2024-05-28",
+        "title": "[预重整公告] 深圳洪涛集团股份有限公司预重整案债权申报",
+        "id": "CF05A9B4DD29B9FE4B1D8A0F3701E55B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=CF05A9B4DD29B9FE4B1D8A0F3701E55B"
+    },
+    "7424DEF7EB609B37AF69E3C6956BD5D0": {
+        "search_key": "花王生态",
+        "date": "2023-05-15",
+        "title": "[裁判文书] （2022）苏11破申3号延长预重整期限",
+        "id": "7424DEF7EB609B37AF69E3C6956BD5D0",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=7424DEF7EB609B37AF69E3C6956BD5D0"
+    },
+    "315507253D1CF26EC3ECEFD1EC809BDF": {
+        "search_key": "花王生态",
+        "date": "2022-06-02",
+        "title": "[案件公告] （2022）苏11破申3号通知债权人申报",
+        "id": "315507253D1CF26EC3ECEFD1EC809BDF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=315507253D1CF26EC3ECEFD1EC809BDF"
+    },
+    "CC053851F12503F9ECED96A4A3507F58": {
+        "search_key": "花王生态",
+        "date": "2022-05-24",
+        "title": "[裁判文书] （2022）苏11破申3号指定临时管理人",
+        "id": "CC053851F12503F9ECED96A4A3507F58",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=CC053851F12503F9ECED96A4A3507F58"
+    },
+    "894A31F08370C87C460D7D3185DA1192": {
+        "search_key": "花王生态",
+        "date": "2022-05-12",
+        "title": "[裁判文书] （2022）苏11破申3号预重整决定",
+        "id": "894A31F08370C87C460D7D3185DA1192",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=894A31F08370C87C460D7D3185DA1192"
+    },
+    "16B8030A2167D45292A4F134156E9669": {
+        "search_key": "花王生态",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2022）苏11破申3号",
+        "id": "16B8030A2167D45292A4F134156E9669",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=16B8030A2167D45292A4F134156E9669"
+    },
+    "F6417CD716F55FC5FC8F16E73619207D": {
+        "search_key": "南京红太阳",
+        "date": "2023-12-01",
+        "title": "[预重整公告] 关于召开南京红太阳股份有限公司预重整阶段债权人会议的通知",
+        "id": "F6417CD716F55FC5FC8F16E73619207D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=F6417CD716F55FC5FC8F16E73619207D"
+    },
+    "E501587524F8F7E8E27E5FCD1B161E4E": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[债务人信息] 南京红太阳股份有限公司",
+        "id": "E501587524F8F7E8E27E5FCD1B161E4E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=E501587524F8F7E8E27E5FCD1B161E4E"
+    },
+    "F79B9BFC651CC9F35A0F9438BE32E9B8": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[招募投资人公告] 关于招募预重整投资人延期的公告",
+        "id": "F79B9BFC651CC9F35A0F9438BE32E9B8",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=F79B9BFC651CC9F35A0F9438BE32E9B8"
+    },
+    "2D2E918545E97A69BBD930B932A17740": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[招募投资人公告] 南京红太阳股份有限公司预重整管理人关于",
+        "id": "2D2E918545E97A69BBD930B932A17740",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=2D2E918545E97A69BBD930B932A17740"
+    },
+    "D3B63E005474C1977492E6590A81CCD6": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 红太阳股份预重整期间的审计、评估机构选聘",
+        "id": "D3B63E005474C1977492E6590A81CCD6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=D3B63E005474C1977492E6590A81CCD6"
+    },
+    "A01186CCD5264DA2147B5756FA68EF91": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 南京红太阳股份有限公司预重整期间债权申报公告",
+        "id": "A01186CCD5264DA2147B5756FA68EF91",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=A01186CCD5264DA2147B5756FA68EF91"
+    },
+    "7AED31D0419A4AC23E3AF3F55DC0BEEA": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 南京红太阳股份有限公司预重整管理人决定书",
+        "id": "7AED31D0419A4AC23E3AF3F55DC0BEEA",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=7AED31D0419A4AC23E3AF3F55DC0BEEA"
+    },
+    "811336EE69440A2F531C899024D352D4": {
+        "search_key": "南京红太阳",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 南京红太阳股份有限公司预重整决定书",
+        "id": "811336EE69440A2F531C899024D352D4",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=811336EE69440A2F531C899024D352D4"
+    },
+    "A99A1382529C908C908FF1301A87DED0": {
+        "search_key": "南京红太阳",
+        "date": "2021-06-30",
+        "title": "[裁判文书] （2021）苏0118破6号受理债务人直",
+        "id": "A99A1382529C908C908FF1301A87DED0",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=A99A1382529C908C908FF1301A87DED0"
+    },
+    "2F3626E7177C2EE638DF1B94B28464B5": {
+        "search_key": "南京红太阳",
+        "date": "2017-12-29",
+        "title": "[裁判文书] （2017）苏02破5号批准重整计划草案",
+        "id": "2F3626E7177C2EE638DF1B94B28464B5",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=2F3626E7177C2EE638DF1B94B28464B5"
+    },
+    "EE38271931BB8E638AC5D630D5FA5E71": {
+        "search_key": "中利集团",
+        "date": "2023-12-05",
+        "title": "[债务人信息] 泗阳腾晖光电有限公司",
+        "id": "EE38271931BB8E638AC5D630D5FA5E71",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=EE38271931BB8E638AC5D630D5FA5E71"
+    },
+    "F695D60E0156BC4E9B07A57C8263A73D": {
+        "search_key": "中利集团",
+        "date": "2023-12-05",
+        "title": "[债务人信息] 泗阳腾晖新能源技术有限公司",
+        "id": "F695D60E0156BC4E9B07A57C8263A73D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=F695D60E0156BC4E9B07A57C8263A73D"
+    },
+    "458BC22B6CB218E628C9D04FA85DE912": {
+        "search_key": "中利集团",
+        "date": "2023-11-28",
+        "title": "[预重整公告] （2023）苏05破申26号泗阳腾晖新能",
+        "id": "458BC22B6CB218E628C9D04FA85DE912",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=458BC22B6CB218E628C9D04FA85DE912"
+    },
+    "6A60AF4E20E9619DD86DEBF2416228F5": {
+        "search_key": "中利集团",
+        "date": "2023-11-28",
+        "title": "[预重整公告] （2023）苏05破申27号泗阳腾晖光电",
+        "id": "6A60AF4E20E9619DD86DEBF2416228F5",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=6A60AF4E20E9619DD86DEBF2416228F5"
+    },
+    "A3C00734657032B8760A1676D331CE01": {
+        "search_key": "中利集团",
+        "date": "2023-09-23",
+        "title": "[债务人信息] 沛县腾晖新能源技术有限公司",
+        "id": "A3C00734657032B8760A1676D331CE01",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=A3C00734657032B8760A1676D331CE01"
+    },
+    "C5E862968264788599824E6F7DAC0434": {
+        "search_key": "中利集团",
+        "date": "2023-09-15",
+        "title": "[预重整公告] （2023）苏05破申24号沛县腾晖新能",
+        "id": "C5E862968264788599824E6F7DAC0434",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=C5E862968264788599824E6F7DAC0434"
+    },
+    "7D02754E9231479F30C6D5155BA6A41B": {
+        "search_key": "中利集团",
+        "date": "2023-09-15",
+        "title": "[预重整公告] （2023）苏05破申24号宿迁腾晖新能",
+        "id": "7D02754E9231479F30C6D5155BA6A41B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=7D02754E9231479F30C6D5155BA6A41B"
+    },
+    "0B0DBB73EE531A0CC3A524725A999D2E": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 常熟市中联光电新材料有限责任公司预重整案",
+        "id": "0B0DBB73EE531A0CC3A524725A999D2E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=0B0DBB73EE531A0CC3A524725A999D2E"
+    },
+    "7E205C62D3AD9494677C9BE7764FFAF7": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 苏州腾晖光伏技术有限公司预重整案债权申报",
+        "id": "7E205C62D3AD9494677C9BE7764FFAF7",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=7E205C62D3AD9494677C9BE7764FFAF7"
+    },
+    "85EF3DB931C5F92473379FE3AB156F40": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[招募投资人公告] 江苏中利集团股份有限公司预重整案关于公开",
+        "id": "85EF3DB931C5F92473379FE3AB156F40",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=85EF3DB931C5F92473379FE3AB156F40"
+    },
+    "078A229B2A9DF3A1B7761D233FB3EDB0": {
+        "search_key": "三圣实业",
+        "date": "2022-05-18",
+        "title": "[裁判文书] （2022）渝05破申47号不予受理债权",
+        "id": "078A229B2A9DF3A1B7761D233FB3EDB0",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=078A229B2A9DF3A1B7761D233FB3EDB0"
+    },
+    "293970C11F08F73B93133F5D8504AC1C": {
+        "search_key": "三圣实业",
+        "date": "2022-02-11",
+        "title": "[裁判文书] （2020）渝05破309号确认债权表记",
+        "id": "293970C11F08F73B93133F5D8504AC1C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=293970C11F08F73B93133F5D8504AC1C"
+    },
+    "8C7D121F41A3D58AA132D74078B330CE": {
+        "search_key": "三圣实业",
+        "date": "2021-01-07",
+        "title": "[裁判文书] （2019）渝0104破5号确认债权表记",
+        "id": "8C7D121F41A3D58AA132D74078B330CE",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=8C7D121F41A3D58AA132D74078B330CE"
+    },
+    "024DEB8FFE0D821CE8EB25CB8A5AC9D9": {
+        "search_key": "三圣实业",
+        "date": "2021-01-07",
+        "title": "[裁判文书] （2019）渝0104破5号宣告债务人破",
+        "id": "024DEB8FFE0D821CE8EB25CB8A5AC9D9",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=024DEB8FFE0D821CE8EB25CB8A5AC9D9"
+    },
+    "88C99F6DDD220EE5CE72285FAD7E717D": {
+        "search_key": "三圣实业",
+        "date": "2020-06-03",
+        "title": "[裁判文书] （2017）渝0152破2(2017)渝",
+        "id": "88C99F6DDD220EE5CE72285FAD7E717D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=88C99F6DDD220EE5CE72285FAD7E717D"
+    },
+    "E5B41AE0A1C511A2306DEB96929E5713": {
+        "search_key": "三圣实业",
+        "date": "2020-05-28",
+        "title": "[案件公告] （2019）渝0109破17号终结破产程",
+        "id": "E5B41AE0A1C511A2306DEB96929E5713",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=E5B41AE0A1C511A2306DEB96929E5713"
+    },
+    "3B19AE53E0D0A4015497994C78E931E4": {
+        "search_key": "三圣实业",
+        "date": "2020-05-28",
+        "title": "[裁判文书] （2019）渝0109破17号确认债权表",
+        "id": "3B19AE53E0D0A4015497994C78E931E4",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=3B19AE53E0D0A4015497994C78E931E4"
+    },
+    "CD8F0E811D4D3472C5AD21D188AA0B14": {
+        "search_key": "三圣实业",
+        "date": "2020-05-28",
+        "title": "[裁判文书] （2019）渝0109破17号不足清偿破",
+        "id": "CD8F0E811D4D3472C5AD21D188AA0B14",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=CD8F0E811D4D3472C5AD21D188AA0B14"
+    },
+    "6B7C01D22EF737015EA502230FDAB64B": {
+        "search_key": "三圣实业",
+        "date": "2020-04-02",
+        "title": "[裁判文书] （2019）渝0109破17号空白模板-",
+        "id": "6B7C01D22EF737015EA502230FDAB64B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=6B7C01D22EF737015EA502230FDAB64B"
+    },
+    "A5F316F9F5D74E05A8C6092C08455F4D": {
+        "search_key": "三圣实业",
+        "date": "2020-01-13",
+        "title": "[案件公告] （2019）渝0109破17号受理破产清",
+        "id": "A5F316F9F5D74E05A8C6092C08455F4D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=A5F316F9F5D74E05A8C6092C08455F4D"
+    },
+    "F89971512917E2723715504442E4F8AB": {
+        "search_key": "西藏发展",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2023）藏01破申4号",
+        "id": "F89971512917E2723715504442E4F8AB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=F89971512917E2723715504442E4F8AB"
+    },
+    "47CE33E03BB56791CD6EEF2709743002": {
+        "search_key": "西藏发展",
+        "date": "2023-11-10",
+        "title": "[公开案件] （2022）粤0305强清10号",
+        "id": "47CE33E03BB56791CD6EEF2709743002",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=47CE33E03BB56791CD6EEF2709743002"
+    },
+    "D1284051ECD6F2CBA34C0E7459799349": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破25号桂林市南城百货",
+        "id": "D1284051ECD6F2CBA34C0E7459799349",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D1284051ECD6F2CBA34C0E7459799349"
+    },
+    "6BFCFD9BB76D2D9ADA382F789E87E067": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破26号湖南海龙供应链",
+        "id": "6BFCFD9BB76D2D9ADA382F789E87E067",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=6BFCFD9BB76D2D9ADA382F789E87E067"
+    },
+    "64FD304D1846C7B70C7AA1E3F8B0C3C7": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破27号湖南腾万里供应",
+        "id": "64FD304D1846C7B70C7AA1E3F8B0C3C7",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=64FD304D1846C7B70C7AA1E3F8B0C3C7"
+    },
+    "B94FD829D6156A17347B5CF77242DBE6": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破28号株洲步步高超市",
+        "id": "B94FD829D6156A17347B5CF77242DBE6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=B94FD829D6156A17347B5CF77242DBE6"
+    },
+    "B34F0695EB14363680C170F4AB9C5D14": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破17号四川步步高",
+        "id": "B34F0695EB14363680C170F4AB9C5D14",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=B34F0695EB14363680C170F4AB9C5D14"
+    },
+    "18FE827276A6C8FC7E683FF81A863C21": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破24号长沙步步高星城",
+        "id": "18FE827276A6C8FC7E683FF81A863C21",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=18FE827276A6C8FC7E683FF81A863C21"
+    },
+    "687F0D6DB459D1C7DD5443A5BEB8E3BA": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破21号郴州步步高投资",
+        "id": "687F0D6DB459D1C7DD5443A5BEB8E3BA",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=687F0D6DB459D1C7DD5443A5BEB8E3BA"
+    },
+    "98D823C8360FC9689CA69A6604FAAA48": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破22号柳州市南城百货",
+        "id": "98D823C8360FC9689CA69A6604FAAA48",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=98D823C8360FC9689CA69A6604FAAA48"
+    },
+    "0186E602426EE019EC013FFBD2FCD3E2": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破20号赣州步步高丰达",
+        "id": "0186E602426EE019EC013FFBD2FCD3E2",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=0186E602426EE019EC013FFBD2FCD3E2"
+    },
+    "E39D3DFC715201B0FEEA2F720B6ED42C": {
+        "search_key": "步步高商业",
+        "date": "2024-05-08",
+        "title": "[其他公告] （2023）湘03破19号广西南城百货有",
+        "id": "E39D3DFC715201B0FEEA2F720B6ED42C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=E39D3DFC715201B0FEEA2F720B6ED42C"
+    },
+    "CA9405AF80B579082D820D2DF3887FEF": {
+        "search_key": "汉马科技",
+        "date": "2024-03-05",
+        "title": "[招募投资人公告] 汉马科技集团股份有限公司及相关子公司",
+        "id": "CA9405AF80B579082D820D2DF3887FEF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=CA9405AF80B579082D820D2DF3887FEF"
+    },
+    "5A1FBEBA718DA409989F4F2D55DD715F": {
+        "search_key": "汉马科技",
+        "date": "2024-03-01",
+        "title": "[预重整公告] 汉马科技集团股份有限公司及相关子公司预重整债权申报公告",
+        "id": "5A1FBEBA718DA409989F4F2D55DD715F",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=5A1FBEBA718DA409989F4F2D55DD715F"
+    },
+    "3F125CA1F26C0AD8DA6CAA5C9AE33EDC": {
+        "search_key": "汉马科技",
+        "date": "2024-02-23",
+        "title": "[裁判文书] （2024）皖05破申21号启动预重整-",
+        "id": "3F125CA1F26C0AD8DA6CAA5C9AE33EDC",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=3F125CA1F26C0AD8DA6CAA5C9AE33EDC"
+    },
+    "961F92BB5E84C9961C72FFAD090EFA36": {
+        "search_key": "汉马科技",
+        "date": "2024-02-23",
+        "title": "[裁判文书] （2024）皖05破申21号指定临时管理",
+        "id": "961F92BB5E84C9961C72FFAD090EFA36",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=961F92BB5E84C9961C72FFAD090EFA36"
+    },
+    "644A10C7E21067A7F8BA93184E500623": {
+        "search_key": "汉马科技",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）皖05破申21号",
+        "id": "644A10C7E21067A7F8BA93184E500623",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=644A10C7E21067A7F8BA93184E500623"
+    },
+    "FF9E8684B6581341C452140E565CA68E": {
+        "search_key": "吉药控股",
+        "date": "2023-12-19",
+        "title": "[招募投资人公告] 吉药控股集团股份有限公司关于公开招募重整投资人的公告",
+        "id": "FF9E8684B6581341C452140E565CA68E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=FF9E8684B6581341C452140E565CA68E"
+    },
+    "83D34D89F52D9C421EE923FBFA9F7121": {
+        "search_key": "吉药控股",
+        "date": "2023-11-30",
+        "title": "[预重整公告] 吉药控股集团股份有限公司预重整案债权申报公告",
+        "id": "83D34D89F52D9C421EE923FBFA9F7121",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=83D34D89F52D9C421EE923FBFA9F7121"
+    },
+    "2E99380F0B0155E958D494E08C4328EB": {
+        "search_key": "吉药控股",
+        "date": "2023-11-28",
+        "title": "[预重整公告] 吉药控股集团股份有限公司启动预重整并指定临时管理人公告",
+        "id": "2E99380F0B0155E958D494E08C4328EB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=2E99380F0B0155E958D494E08C4328EB"
+    },
+    "B40F9430D2FD80EB52A2B8EC48E180FB": {
+        "search_key": "有棵树",
+        "date": "2024-04-28",
+        "title": "[债务人信息] 有棵树科技股份有限公司",
+        "id": "B40F9430D2FD80EB52A2B8EC48E180FB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=B40F9430D2FD80EB52A2B8EC48E180FB"
+    },
+    "60317585F37E9DBA828B8354E788B19C": {
+        "search_key": "有棵树",
+        "date": "2024-03-15",
+        "title": "[预重整公告] 有棵树科技股份有限公司临时管理人公告",
+        "id": "60317585F37E9DBA828B8354E788B19C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=60317585F37E9DBA828B8354E788B19C"
+    },
+    "D2A83FB2F36F1DE0473509E250DA74FD": {
+        "search_key": "有棵树",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）湘01破申19号",
+        "id": "D2A83FB2F36F1DE0473509E250DA74FD",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=D2A83FB2F36F1DE0473509E250DA74FD"
+    },
+    "5151698420DEC44F4852B2420A24532C": {
+        "search_key": "文投控股",
+        "date": "2024-02-29",
+        "title": "[招募投资人公告] 文投控股股份有限公司临时管理人关于公开招募重整投资人的公告",
+        "id": "5151698420DEC44F4852B2420A24532C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=5151698420DEC44F4852B2420A24532C"
+    },
+    "BBFA664AA52273B854B48EA0D66E6C3A": {
+        "search_key": "文投控股",
+        "date": "2024-02-28",
+        "title": "[预重整公告] 关于文投控股股份有限公司预重整公开选聘审计及评估机构的公告",
+        "id": "BBFA664AA52273B854B48EA0D66E6C3A",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=BBFA664AA52273B854B48EA0D66E6C3A"
+    },
+    "5A9D4E4C4C74A42C0F3098DA2DD62616": {
+        "search_key": "文投控股",
+        "date": "2024-02-26",
+        "title": "[预重整公告] 文投控股股份有限公司预重整案债权申报通知",
+        "id": "5A9D4E4C4C74A42C0F3098DA2DD62616",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=5A9D4E4C4C74A42C0F3098DA2DD62616"
+    },
+    "C3F2F4AB051D476FF22A70134E1D787A": {
+        "search_key": "文投控股",
+        "date": "2024-02-26",
+        "title": "[案件公告] （2024）京01破申89号决定预重整及",
+        "id": "C3F2F4AB051D476FF22A70134E1D787A",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=C3F2F4AB051D476FF22A70134E1D787A"
+    },
+    "6B20A8E11085735DAD07919DA04EFC19": {
+        "search_key": "文投控股",
+        "date": "2024-02-26",
+        "title": "[裁判文书] （2024）京01破申89号预重整-决定",
+        "id": "6B20A8E11085735DAD07919DA04EFC19",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=6B20A8E11085735DAD07919DA04EFC19"
+    },
+    "E6A7E97C8926664E0B9612B5E5D2192B": {
+        "search_key": "文投控股",
+        "date": "2024-02-26",
+        "title": "[裁判文书] （2024）京01破申89号指定临时管理",
+        "id": "E6A7E97C8926664E0B9612B5E5D2192B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=E6A7E97C8926664E0B9612B5E5D2192B"
+    },
+    "677FF7299AF6949C3699BBB66D80F2D9": {
+        "search_key": "文投控股",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）京01破申89号",
+        "id": "677FF7299AF6949C3699BBB66D80F2D9",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=677FF7299AF6949C3699BBB66D80F2D9"
+    },
+    "F85F3F3889DA6FF8826906F9BF6FABA6": {
+        "search_key": "文投控股",
+        "date": "2017-12-16",
+        "title": "[裁判文书] （2017）辽01破1号批准重整计划-民",
+        "id": "F85F3F3889DA6FF8826906F9BF6FABA6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=F85F3F3889DA6FF8826906F9BF6FABA6"
+    },
+    "DE4056DC24FFD5F733448D03FEF4A4CE": {
+        "search_key": "傲农",
+        "date": "2024-05-20",
+        "title": "[案件公告] （2024）闽0602破1号漳州傲农投资",
+        "id": "DE4056DC24FFD5F733448D03FEF4A4CE",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=DE4056DC24FFD5F733448D03FEF4A4CE"
+    },
+    "6834608B46FD8F4B563C61AD5E004409": {
+        "search_key": "傲农",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）闽06破申59号",
+        "id": "6834608B46FD8F4B563C61AD5E004409",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=6834608B46FD8F4B563C61AD5E004409"
+    },
+    "45132632AA1816B6B4FDF1215E510244": {
+        "search_key": "傲农",
+        "date": "2024-04-19",
+        "title": "[案件公告] （2024）闽0602破1号漳州傲农投资",
+        "id": "45132632AA1816B6B4FDF1215E510244",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=45132632AA1816B6B4FDF1215E510244"
+    },
+    "028DFC01420EB82344CB0527D0C8CB0D": {
+        "search_key": "傲农",
+        "date": "2024-04-19",
+        "title": "[公开案件] （2024）闽0602破1号",
+        "id": "028DFC01420EB82344CB0527D0C8CB0D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=028DFC01420EB82344CB0527D0C8CB0D"
+    },
+    "B442300ABE241648020618D6CD20BDF1": {
+        "search_key": "傲农",
+        "date": "2024-03-29",
+        "title": "[公开案件] （2024）闽0602破申1号",
+        "id": "B442300ABE241648020618D6CD20BDF1",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=B442300ABE241648020618D6CD20BDF1"
+    },
+    "2192E571535DF1E8D3E28B431CB80E89": {
+        "search_key": "傲农",
+        "date": "2022-04-21",
+        "title": "[案件公告] （2021）赣0982破4号认可江西绿环",
+        "id": "2192E571535DF1E8D3E28B431CB80E89",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=2192E571535DF1E8D3E28B431CB80E89"
+    },
+    "08249B50FB4D328DE44C886601A4FD03": {
+        "search_key": "天邦食品",
+        "date": "2024-05-15",
+        "title": "[案件公告] （2024）黑0110强清16号债权人申",
+        "id": "08249B50FB4D328DE44C886601A4FD03",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=08249B50FB4D328DE44C886601A4FD03"
+    },
+    "D726838B5B6244D0AE68FD8692DEE2B7": {
+        "search_key": "天邦食品",
+        "date": "2024-05-14",
+        "title": "[案件公告] （2024）黑0110强清16号债权人申",
+        "id": "D726838B5B6244D0AE68FD8692DEE2B7",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D726838B5B6244D0AE68FD8692DEE2B7"
+    },
+    "94016D0CECC328B6FD203A74DAF3F3BC": {
+        "search_key": "天邦食品",
+        "date": "2024-05-14",
+        "title": "[案件公告] （2024）黑0110强清16号裁定受理",
+        "id": "94016D0CECC328B6FD203A74DAF3F3BC",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=94016D0CECC328B6FD203A74DAF3F3BC"
+    },
+    "64466564F05585B19947E4E7AB5F7917": {
+        "search_key": "天邦食品",
+        "date": "2024-05-10",
+        "title": "[裁判文书] （2024）黑0110清申16号受理债权",
+        "id": "64466564F05585B19947E4E7AB5F7917",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=64466564F05585B19947E4E7AB5F7917"
+    },
+    "1B20A4AE1F4F0FA40A0458DA68B31CC4": {
+        "search_key": "天邦食品",
+        "date": "2024-06-28",
+        "title": "[公开案件] （2024）黑0110强清16号",
+        "id": "1B20A4AE1F4F0FA40A0458DA68B31CC4",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=1B20A4AE1F4F0FA40A0458DA68B31CC4"
+    },
+    "CA61F516272E4F89E3D8733DA37C87CF": {
+        "search_key": "天邦食品",
+        "date": "2024-04-29",
+        "title": "[裁判文书] （2024）黑0110清申16号收到强制",
+        "id": "CA61F516272E4F89E3D8733DA37C87CF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=CA61F516272E4F89E3D8733DA37C87CF"
+    },
+    "B235E2142FBE7B624BCDA6230A6FB375": {
+        "search_key": "天邦食品",
+        "date": "2024-05-10",
+        "title": "[公开案件] （2024）黑0110清申16号",
+        "id": "B235E2142FBE7B624BCDA6230A6FB375",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=B235E2142FBE7B624BCDA6230A6FB375"
+    },
+    "8D15C4A816C9CC1D547EFEA0D373A28C": {
+        "search_key": "金科地产",
+        "date": "2024-05-22",
+        "title": "[案件公告] （2024）渝05破117号金科地产集团股份",
+        "id": "8D15C4A816C9CC1D547EFEA0D373A28C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=8D15C4A816C9CC1D547EFEA0D373A28C"
+    },
+    "7F34C3361BEC4027F73B1834052A8DA2": {
+        "search_key": "金科地产",
+        "date": "2024-05-22",
+        "title": "[案件公告] （2024）渝05破117号受理破产申请",
+        "id": "7F34C3361BEC4027F73B1834052A8DA2",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=7F34C3361BEC4027F73B1834052A8DA2"
+    },
+    "B0A806CE6735554DBBB3CB0E09714946": {
+        "search_key": "金科地产",
+        "date": "2024-04-30",
+        "title": "[案件公告] （2024）渝05破117号关于金科股份",
+        "id": "B0A806CE6735554DBBB3CB0E09714946",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=B0A806CE6735554DBBB3CB0E09714946"
+    },
+    "27262817C90B26F46A06F29CD3174877": {
+        "search_key": "金科地产",
+        "date": "2024-04-26",
+        "title": "[裁判文书] （2024）渝05破申129号受理债务人",
+        "id": "27262817C90B26F46A06F29CD3174877",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=27262817C90B26F46A06F29CD3174877"
+    },
+    "9DD92DB9912CC7E24395508B63E89455": {
+        "search_key": "金科地产",
+        "date": "2024-05-22",
+        "title": "[公开案件] （2024）渝05破117号",
+        "id": "9DD92DB9912CC7E24395508B63E89455",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=9DD92DB9912CC7E24395508B63E89455"
+    },
+    "B391FE66DCC43D1E8DD80B70BC074503": {
+        "search_key": "金科地产",
+        "date": "2024-04-22",
+        "title": "[裁判文书] （2024）渝05破申129号受理债务人",
+        "id": "B391FE66DCC43D1E8DD80B70BC074503",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=B391FE66DCC43D1E8DD80B70BC074503"
+    },
+    "017DA051E7BC5103629FAC3880DCDB4C": {
+        "search_key": "金科地产",
+        "date": "2024-04-22",
+        "title": "[案件公告] （2024）渝05破申129号受理债权人",
+        "id": "017DA051E7BC5103629FAC3880DCDB4C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=017DA051E7BC5103629FAC3880DCDB4C"
+    },
+    "2B3DCC90C43251916C557E3E9C62F52A": {
+        "search_key": "金科地产",
+        "date": "2024-04-26",
+        "title": "[公开案件] （2024）渝05破申129号",
+        "id": "2B3DCC90C43251916C557E3E9C62F52A",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=2B3DCC90C43251916C557E3E9C62F52A"
+    },
+    "5370103B2E1AB4E06FA4B8620E8A5D16": {
+        "search_key": "合力泰科技股份",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）闽01破申33号",
+        "id": "5370103B2E1AB4E06FA4B8620E8A5D16",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=5370103B2E1AB4E06FA4B8620E8A5D16"
+    },
+    "DC87266E0123B4FD03091EEE5E9DEEDD": {
+        "search_key": "迪马实业",
+        "date": "2023-09-05",
+        "title": "[裁判文书] （2023）渝05破申608号不予受理债",
+        "id": "DC87266E0123B4FD03091EEE5E9DEEDD",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=DC87266E0123B4FD03091EEE5E9DEEDD"
+    },
+    "A67363F20C60C19B931C228FF8D71425": {
+        "search_key": "迪马实业",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2023）渝05破申608号",
+        "id": "A67363F20C60C19B931C228FF8D71425",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=A67363F20C60C19B931C228FF8D71425"
+    },
+    "C9D27609D3D43C021E2B49C57FB6F325": {
+        "search_key": "东方园林",
+        "date": "2024-05-17",
+        "title": "[预重整公告] 北京东方园林环境股份有限公司预重整案",
+        "id": "C9D27609D3D43C021E2B49C57FB6F325",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=C9D27609D3D43C021E2B49C57FB6F325"
+    },
+    "B038649323C100E0C188670F79DE622C": {
+        "search_key": "东方园林",
+        "date": "2024-05-13",
+        "title": "[预重整公告] 北京东方园林环境股份有限公司预重整案债权申报通知",
+        "id": "B038649323C100E0C188670F79DE622C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=B038649323C100E0C188670F79DE622C"
+    },
+    "F56FF2216BC1A6497880275736E4330F": {
+        "search_key": "东方园林",
+        "date": "2024-05-09",
+        "title": "[案件公告] （2024）京01破申469号决定预重整",
+        "id": "F56FF2216BC1A6497880275736E4330F",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=F56FF2216BC1A6497880275736E4330F"
+    },
+    "F4B872626BEAFE5B15D8C0861575905B": {
+        "search_key": "东方园林",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）京01破申469号",
+        "id": "F4B872626BEAFE5B15D8C0861575905B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=F4B872626BEAFE5B15D8C0861575905B"
+    },
+    "AF1CF58E4839114AEEC1A513B1980BE6": {
+        "search_key": "名家汇",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）粤03破申481号",
+        "id": "AF1CF58E4839114AEEC1A513B1980BE6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=AF1CF58E4839114AEEC1A513B1980BE6"
+    },
+    "817BDC14F488ACDCEADDABAC865FE319": {
+        "search_key": "名家汇",
+        "date": "2021-04-25",
+        "title": "[裁判文书] （2019）鲁01破6号确认债权表记载的",
+        "id": "817BDC14F488ACDCEADDABAC865FE319",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=817BDC14F488ACDCEADDABAC865FE319"
+    },
+    "3E5C6638B7FE459869AB5DE3D909E9B1": {
+        "search_key": "名家汇",
+        "date": "2020-06-11",
+        "title": "[裁判文书] （2020）渝05破申250号受理债权人",
+        "id": "3E5C6638B7FE459869AB5DE3D909E9B1",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=3E5C6638B7FE459869AB5DE3D909E9B1"
+    },
+    "305B8EABF1E31CD1D7863F11BCDBAE70": {
+        "search_key": "名家汇",
+        "date": "2019-09-23",
+        "title": "[裁判文书] （2018）渝0107破15号确认债权表",
+        "id": "305B8EABF1E31CD1D7863F11BCDBAE70",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=305B8EABF1E31CD1D7863F11BCDBAE70"
+    },
+    "0d3b6b14ecc54a4490d211220e5fa096": {
+        "search_key": "景峰医药",
+        "date": "2024-04-22",
+        "title": "[预重整公告] 山东省龙口市人民法院决定书",
+        "id": "0d3b6b14ecc54a4490d211220e5fa096",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=0d3b6b14ecc54a4490d211220e5fa096"
+    },
+    "b088ca30d74d4eadb02f37f1b7673cd1": {
+        "search_key": "景峰医药",
+        "date": "2023-11-17",
+        "title": "[预重整公告] 湖南景峰医药股份有限公司临时管理人通知书",
+        "id": "b088ca30d74d4eadb02f37f1b7673cd1",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=b088ca30d74d4eadb02f37f1b7673cd1"
+    },
+    "50913b2fb9564a91a8368d71231bcec1": {
+        "search_key": "景峰医药",
+        "date": "2023-11-16",
+        "title": "[预重整公告] 山东省龙口市人民法院决定书",
+        "id": "50913b2fb9564a91a8368d71231bcec1",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=50913b2fb9564a91a8368d71231bcec1"
+    },
+    "1502ec76aa9c475a9455d6fd5d444106": {
+        "search_key": "景峰医药",
+        "date": "2023-11-16",
+        "title": "[预重整公告] 山东省龙口市人民法院公告",
+        "id": "1502ec76aa9c475a9455d6fd5d444106",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=1502ec76aa9c475a9455d6fd5d444106"
+    },
+    "c237457ad5854c31874ed074bbf809f2": {
+        "search_key": "景峰医药",
+        "date": "2023-11-01",
+        "title": "[预重整公告] 山东省龙口市人民法院公告",
+        "id": "c237457ad5854c31874ed074bbf809f2",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=c237457ad5854c31874ed074bbf809f2"
+    },
+    "ed06c72aecd8483cbfd1afc59aa1d5eb": {
+        "search_key": "景峰医药",
+        "date": "2023-11-01",
+        "title": "[债务人信息] 湖南景峰医药股份有限公司",
+        "id": "ed06c72aecd8483cbfd1afc59aa1d5eb",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=ed06c72aecd8483cbfd1afc59aa1d5eb"
+    },
+    "88BC642A27BAD41891E5AE963ACFA9BB": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-08",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "88BC642A27BAD41891E5AE963ACFA9BB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=88BC642A27BAD41891E5AE963ACFA9BB"
+    },
+    "A1CD46ED02B94E2019884E1E6114C7E3": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-08",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "A1CD46ED02B94E2019884E1E6114C7E3",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=A1CD46ED02B94E2019884E1E6114C7E3"
+    },
+    "0D33F204C1ECF528CC444099B32B91C8": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-08",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "0D33F204C1ECF528CC444099B32B91C8",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=0D33F204C1ECF528CC444099B32B91C8"
+    },
+    "74D341C7A7AA61BBF99069EEA9ECFEE3": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-08",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "74D341C7A7AA61BBF99069EEA9ECFEE3",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=74D341C7A7AA61BBF99069EEA9ECFEE3"
+    },
+    "DE860563C67F0F3E3B98D9FCDE510B85": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-07",
+        "title": "[预重整公告] 宁夏中科生物新材料有限公司预重整案债权申报公告",
+        "id": "DE860563C67F0F3E3B98D9FCDE510B85",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=DE860563C67F0F3E3B98D9FCDE510B85"
+    },
+    "B5BBF11BC830D27384CC3578B9CE818D": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-07",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司预重整案债权申报公告",
+        "id": "B5BBF11BC830D27384CC3578B9CE818D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=B5BBF11BC830D27384CC3578B9CE818D"
+    },
+    "2ADDEF455E044DAB512B8C72BA15B339": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-14",
+        "title": "[债务人信息] 宁夏中科生物新材料有限公司",
+        "id": "2ADDEF455E044DAB512B8C72BA15B339",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=2ADDEF455E044DAB512B8C72BA15B339"
+    },
+    "90FC04DC0FB978D575CF6CAC2B6C545B": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-14",
+        "title": "[债务人信息] 宁夏中科生物科技股份有限公司",
+        "id": "90FC04DC0FB978D575CF6CAC2B6C545B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=90FC04DC0FB978D575CF6CAC2B6C545B"
+    },
+    "1ACB8CE48DC370830853E15DE4FA693A": {
+        "search_key": "宁夏中科",
+        "date": "2024-05-31",
+        "title": "[公开案件] （2024）宁02破申1号",
+        "id": "1ACB8CE48DC370830853E15DE4FA693A",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=1ACB8CE48DC370830853E15DE4FA693A"
+    },
+    "9EBCAF47328F8CABFCE42B9763F0884A": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）宁02破申2号",
+        "id": "9EBCAF47328F8CABFCE42B9763F0884A",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=9EBCAF47328F8CABFCE42B9763F0884A"
+    },
+    "A83C7E52C504FD6829EF2CD63253B0AA": {
+        "search_key": "同洲电子",
+        "date": "2021-10-12",
+        "title": "[裁判文书] （2020）京01破311号确认债权表记",
+        "id": "A83C7E52C504FD6829EF2CD63253B0AA",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=A83C7E52C504FD6829EF2CD63253B0AA"
+    },
+    "0582EDB811A4B215E69C69D063295C59": {
+        "search_key": "中装建设",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）粤03破申547号",
+        "id": "0582EDB811A4B215E69C69D063295C59",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=0582EDB811A4B215E69C69D063295C59"
+    },
+    "905CC0698E974019E05FC8D417E2A972": {
+        "search_key": "中装建设",
+        "date": "2023-11-21",
+        "title": "[案件公告] （2023）粤03破420号深圳市华视炫",
+        "id": "905CC0698E974019E05FC8D417E2A972",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=905CC0698E974019E05FC8D417E2A972"
+    },
+    "981F3DD030A5B0BD74EFC3F1118AF23E": {
+        "search_key": "中装建设",
+        "date": "2023-11-07",
+        "title": "[案件公告] （2022）苏1023破74号宝应奥园置",
+        "id": "981F3DD030A5B0BD74EFC3F1118AF23E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=981F3DD030A5B0BD74EFC3F1118AF23E"
+    },
+    "5FAECC55608A8789C7B3E1C0FC52E8F7": {
+        "search_key": "中装建设",
+        "date": "2022-06-21",
+        "title": "[案件公告] （2022）粤01破68号关于《广东荣和",
+        "id": "5FAECC55608A8789C7B3E1C0FC52E8F7",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=5FAECC55608A8789C7B3E1C0FC52E8F7"
+    },
+    "73F3302A4404E15011CD30D0F7E0068F": {
+        "search_key": "中装建设",
+        "date": "2022-05-25",
+        "title": "[裁判文书] （2020）皖0203破1号无异议债权确",
+        "id": "73F3302A4404E15011CD30D0F7E0068F",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=73F3302A4404E15011CD30D0F7E0068F"
+    },
+    "71E54B4B2E2772A4C3966E7036CC8CC6": {
+        "search_key": "中装建设",
+        "date": "2020-07-14",
+        "title": "[招募管理人公告] （2020）渝05破112号竞争选任管理",
+        "id": "71E54B4B2E2772A4C3966E7036CC8CC6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=71E54B4B2E2772A4C3966E7036CC8CC6"
+    },
+    "202C9B378783C5D8E441959944F794FE": {
+        "search_key": "中装建设",
+        "date": "2020-07-14",
+        "title": "[招募管理人公告] （2020）渝05破113号竞争选任管理",
+        "id": "202C9B378783C5D8E441959944F794FE",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=202C9B378783C5D8E441959944F794FE"
+    },
+    "0583B07E7CB8E62F08D826E818CAB26E": {
+        "search_key": "江苏博信",
+        "date": "2021-04-16",
+        "title": "[裁判文书] （2021）鄂01破申16号受理对已解散",
+        "id": "0583B07E7CB8E62F08D826E818CAB26E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=0583B07E7CB8E62F08D826E818CAB26E"
+    },
+    "F21B77D9B6BAB6F1724B22D283C91896": {
+        "search_key": "迪威迅",
+        "date": "2024-05-24",
+        "title": "[公开案件] （2021）粤03破申1031号",
+        "id": "F21B77D9B6BAB6F1724B22D283C91896",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=F21B77D9B6BAB6F1724B22D283C91896"
+    },
+    "A44469E8E19254397FC103523DA77F58": {
+        "search_key": "仁东控股",
+        "date": "2024-06-05",
+        "title": "[案件公告] （2024）粤01破申251号仁东控股股份",
+        "id": "A44469E8E19254397FC103523DA77F58",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=A44469E8E19254397FC103523DA77F58"
+    },
+    "F3897E047F21BBFF0DDDCF6D5CF26958": {
+        "search_key": "仁东控股",
+        "date": "2024-05-24",
+        "title": "[案件公告] 中级人民法院关于仁东控股股份有限公司预重整选任临时管理人公告",
+        "id": "F3897E047F21BBFF0DDDCF6D5CF26958",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=F3897E047F21BBFF0DDDCF6D5CF26958"
+    },
+    "F77851CB49B721DB77EFFD8E54B556AD": {
+        "search_key": "仁东控股",
+        "date": "2024-07-05",
+        "title": "[公开案件] （2024）粤01破申251号",
+        "id": "F77851CB49B721DB77EFFD8E54B556AD",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=F77851CB49B721DB77EFFD8E54B556AD"
+    },
+    "8EF84FC0516EF0A418D2352FF92AAB77": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-12",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "8EF84FC0516EF0A418D2352FF92AAB77",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=8EF84FC0516EF0A418D2352FF92AAB77"
+    },
+    "29BB714D6B6A67EA086D8CFC1A81F4F4": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-12",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司、宁夏中科",
+        "id": "29BB714D6B6A67EA086D8CFC1A81F4F4",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=29BB714D6B6A67EA086D8CFC1A81F4F4"
+    },
+    "BA6E5952BE997028704BF2849E6486B8": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-13",
+        "title": "[招募投资人公告] 宁夏中科生物科技股份有限公司关于公开",
+        "id": "BA6E5952BE997028704BF2849E6486B8",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=BA6E5952BE997028704BF2849E6486B8"
+    },
+    "44718FA3D96EEEDCA558984E6A4D158B": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-13",
+        "title": "[招募投资人公告] 宁夏中科生物科技股份有限公司关于公开",
+        "id": "44718FA3D96EEEDCA558984E6A4D158B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=44718FA3D96EEEDCA558984E6A4D158B"
+    },
+    "62BB7B2364B8554B73F9E1704CE497DB": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-14",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司关于公开",
+        "id": "62BB7B2364B8554B73F9E1704CE497DB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=62BB7B2364B8554B73F9E1704CE497DB"
+    },
+    "EDC74D872B3FF982F7A8A9E27113A632": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-15",
+        "title": "[预重整公告] 宁夏中科生物新材料有限公司指定临时管理人决定书",
+        "id": "EDC74D872B3FF982F7A8A9E27113A632",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=EDC74D872B3FF982F7A8A9E27113A632"
+    },
+    "F80D6A55EF779E7994F81D5782C0AD4D": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-15",
+        "title": "[预重整公告] 宁夏中科生物新材料有限公司启动预重整决定书",
+        "id": "F80D6A55EF779E7994F81D5782C0AD4D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=F80D6A55EF779E7994F81D5782C0AD4D"
+    },
+    "6D7086CE23DC2E503EFEC348CDCCE2B6": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-15",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司指定临时管理人决定书",
+        "id": "6D7086CE23DC2E503EFEC348CDCCE2B6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=6D7086CE23DC2E503EFEC348CDCCE2B6"
+    },
+    "543B117B0CB25DF6D59B3B236981B070": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-15",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司启动预重整决定书",
+        "id": "543B117B0CB25DF6D59B3B236981B070",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=543B117B0CB25DF6D59B3B236981B070"
+    },
+    "073C409A580E127517EA8A70F8C397BC": {
+        "search_key": "东方园林",
+        "date": "2024-06-17",
+        "title": "[拍卖公告] （2023）沪03破157号上海世方建筑",
+        "id": "073C409A580E127517EA8A70F8C397BC",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=073C409A580E127517EA8A70F8C397BC"
+    },
+    "E49E91C37CFA5B4DA82B495631AF082E": {
+        "search_key": "仁东控股",
+        "date": "2024-06-17",
+        "title": "[裁判文书] （2024）粤01破申251号仁东控股股份有限公司债权申报通知",
+        "id": "E49E91C37CFA5B4DA82B495631AF082E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=E49E91C37CFA5B4DA82B495631AF082E"
+    },
+    "FB9AAA9D59CC0FC8D8CCD8E97960864E": {
+        "search_key": "金科地产",
+        "date": "2024-06-25",
+        "title": "[招募投资人公告] （2024）渝05破118号关于公开招募",
+        "id": "FB9AAA9D59CC0FC8D8CCD8E97960864E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=FB9AAA9D59CC0FC8D8CCD8E97960864E"
+    },
+    "999CBEEDFF4FB6C33431141674FCA5AF": {
+        "search_key": "金科地产",
+        "date": "2024-06-25",
+        "title": "[招募投资人公告] （2024）渝05破117号关于公开招募",
+        "id": "999CBEEDFF4FB6C33431141674FCA5AF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=999CBEEDFF4FB6C33431141674FCA5AF"
+    },
+    "08173E713A34018EC6AA7AC8F8CF6898": {
+        "search_key": "景峰医药",
+        "date": "2024-06-26",
+        "title": "[公开案件] （2024）湘07破申7号",
+        "id": "08173E713A34018EC6AA7AC8F8CF6898",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=08173E713A34018EC6AA7AC8F8CF6898"
+    },
+    "7CFE4B83AB830A1EC91539C42536AFD1": {
+        "search_key": "景峰医药",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2024）湘07破申7号",
+        "id": "7CFE4B83AB830A1EC91539C42536AFD1",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=7CFE4B83AB830A1EC91539C42536AFD1"
+    },
+    "B6EE91096E6368537E3E745F618ABDE6": {
+        "search_key": "南京红太阳",
+        "date": "2024-06-27",
+        "title": "[公开案件] （2022）苏01破申62号",
+        "id": "B6EE91096E6368537E3E745F618ABDE6",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=B6EE91096E6368537E3E745F618ABDE6"
+    },
+    "392522E9DC97443D6DB5ED2C49F58051": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破28号株洲步步高超市",
+        "id": "392522E9DC97443D6DB5ED2C49F58051",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=392522E9DC97443D6DB5ED2C49F58051"
+    },
+    "1F2F714B0DA686F5F07A2951B5202C88": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破27号湖南腾万里供应",
+        "id": "1F2F714B0DA686F5F07A2951B5202C88",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=1F2F714B0DA686F5F07A2951B5202C88"
+    },
+    "2DC5E8C01A9D681E8E0BA96277DA13B7": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破26号湖南海龙供应链",
+        "id": "2DC5E8C01A9D681E8E0BA96277DA13B7",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=2DC5E8C01A9D681E8E0BA96277DA13B7"
+    },
+    "14EFA86AF1BB92E6A7262EF4CCDBB499": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破25号桂林市南城百货",
+        "id": "14EFA86AF1BB92E6A7262EF4CCDBB499",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=14EFA86AF1BB92E6A7262EF4CCDBB499"
+    },
+    "98F7F80A92669D5C686636B78373C70C": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破24号长沙步步高星城",
+        "id": "98F7F80A92669D5C686636B78373C70C",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=98F7F80A92669D5C686636B78373C70C"
+    },
+    "DA3F2D4716EA65A43D01AE275B2AFD55": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破23号泸州步步高驿通",
+        "id": "DA3F2D4716EA65A43D01AE275B2AFD55",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=DA3F2D4716EA65A43D01AE275B2AFD55"
+    },
+    "3E488EE7980F4BD646A56CD59966AE17": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破22号柳州市南城百货",
+        "id": "3E488EE7980F4BD646A56CD59966AE17",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=3E488EE7980F4BD646A56CD59966AE17"
+    },
+    "38458E24448993950E8680F7891CBDEF": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破21号郴州步步高投资",
+        "id": "38458E24448993950E8680F7891CBDEF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=38458E24448993950E8680F7891CBDEF"
+    },
+    "A8500AB944A27F1770322D6B6F091F6E": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破20号赣州步步高丰达",
+        "id": "A8500AB944A27F1770322D6B6F091F6E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=A8500AB944A27F1770322D6B6F091F6E"
+    },
+    "933A5FB558A46D3D0F744C9D83F30E1D": {
+        "search_key": "步步高商业",
+        "date": "2024-06-27",
+        "title": "[其他公告] （2023）湘03破19号广西南城百货有",
+        "id": "933A5FB558A46D3D0F744C9D83F30E1D",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=933A5FB558A46D3D0F744C9D83F30E1D"
+    },
+    "A45425F286E1AACA2BABC11F337A921B": {
+        "search_key": "天邦食品",
+        "date": "2024-06-28",
+        "title": "[案件公告] （2024）黑0110强清16号终结强制",
+        "id": "A45425F286E1AACA2BABC11F337A921B",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=A45425F286E1AACA2BABC11F337A921B"
+    },
+    "ED9CBAF98299ED35881CBC9ECB64C9BA": {
+        "search_key": "天邦食品",
+        "date": "2024-06-28",
+        "title": "[裁判文书] （2024）黑0110强清16号终结强制",
+        "id": "ED9CBAF98299ED35881CBC9ECB64C9BA",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=ED9CBAF98299ED35881CBC9ECB64C9BA"
+    },
+    "1B3DBAFDF69403E4DD1802C4A762D731": {
+        "search_key": "宁夏中科",
+        "date": "2024-06-28",
+        "title": "[预重整公告] 宁夏中科生物科技股份有限公司关于公开",
+        "id": "1B3DBAFDF69403E4DD1802C4A762D731",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=1B3DBAFDF69403E4DD1802C4A762D731"
+    },
+    "8C490C28D5FFD77217BD508ACA57EA43": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[其他公告] （2023）湘03破23号泸州步步高驿通",
+        "id": "8C490C28D5FFD77217BD508ACA57EA43",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=8C490C28D5FFD77217BD508ACA57EA43"
+    },
+    "7F1DE9E2B302CBBCC0BB98FA800019C2": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[案件公告] （2023）湘03破15号批准重整计划或",
+        "id": "7F1DE9E2B302CBBCC0BB98FA800019C2",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=7F1DE9E2B302CBBCC0BB98FA800019C2"
+    },
+    "78BD76997B967C3B9DB1076ACA2D9CFE": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[案件公告] （2023）湘03破14号批准重整计划或",
+        "id": "78BD76997B967C3B9DB1076ACA2D9CFE",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=78BD76997B967C3B9DB1076ACA2D9CFE"
+    },
+    "D5B685048FE5C3F352419102CB5C9EB0": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[案件公告] （2023）湘03破18号批准重整计划或",
+        "id": "D5B685048FE5C3F352419102CB5C9EB0",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5B685048FE5C3F352419102CB5C9EB0"
+    },
+    "22CF427B7D1F89FDB05BE29E118DA4D8": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[案件公告] （2023）湘03破17号批准重整计划或",
+        "id": "22CF427B7D1F89FDB05BE29E118DA4D8",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=22CF427B7D1F89FDB05BE29E118DA4D8"
+    },
+    "79A79E18EDB976EE152FC10FADDA795F": {
+        "search_key": "步步高商业",
+        "date": "2024-07-01",
+        "title": "[案件公告] （2023）湘03破16号批准重整计划或",
+        "id": "79A79E18EDB976EE152FC10FADDA795F",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=79A79E18EDB976EE152FC10FADDA795F"
+    },
+    "6BDD5EC20792E2A790975F251404EE22": {
+        "search_key": "开元教育",
+        "date": "2024-07-08",
+        "title": "[公开案件] （2024）湘01破申120号",
+        "id": "6BDD5EC20792E2A790975F251404EE22",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=6BDD5EC20792E2A790975F251404EE22"
+    },
+    "1EB813D16E5E8C9AAA17CC819E58BD89": {
+        "search_key": "开元教育",
+        "date": "2022-07-24",
+        "title": "[裁判文书] （2021）川0183破3号2021川0",
+        "id": "1EB813D16E5E8C9AAA17CC819E58BD89",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=1EB813D16E5E8C9AAA17CC819E58BD89"
+    },
+    "CF3740046C35EA1132C74AE467AF28C2": {
+        "search_key": "开元教育",
+        "date": "2021-12-31",
+        "title": "[裁判文书] （2021）鄂01破12号确认债权表记载",
+        "id": "CF3740046C35EA1132C74AE467AF28C2",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=CF3740046C35EA1132C74AE467AF28C2"
+    },
+    "FA90D5D991AE000384F24634527A1025": {
+        "search_key": "开元教育",
+        "date": "2021-09-09",
+        "title": "[裁判文书] （2021）川0183破3号确认债权表记",
+        "id": "FA90D5D991AE000384F24634527A1025",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=FA90D5D991AE000384F24634527A1025"
+    },
+    "E21950297156A6CA73EE95A137A2C54E": {
+        "search_key": "三圣实业",
+        "date": "2019-07-03",
+        "title": "[裁判文书] （2019）渝0109破申5号准予申请人",
+        "id": "E21950297156A6CA73EE95A137A2C54E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=E21950297156A6CA73EE95A137A2C54E"
+    },
+    "65743D5B929D2E98279E4BCFED66B54E": {
+        "search_key": "三圣实业",
+        "date": "2019-07-03",
+        "title": "[裁判文书] （2019）渝0109破申5号准予申请人",
+        "id": "65743D5B929D2E98279E4BCFED66B54E",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=65743D5B929D2E98279E4BCFED66B54E"
+    },
+    "57F273B1435DB6A7F2D7BC94303D29EB": {
+        "search_key": "三圣实业",
+        "date": "2019-06-25",
+        "title": "[裁判文书] （2019）渝0109破申5号收到破产清",
+        "id": "57F273B1435DB6A7F2D7BC94303D29EB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=57F273B1435DB6A7F2D7BC94303D29EB"
+    },
+    "E6F55CED2783538E697AC24FED6EC054": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 江苏中利集团股份有限公司预重整案财务顾问",
+        "id": "E6F55CED2783538E697AC24FED6EC054",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=E6F55CED2783538E697AC24FED6EC054"
+    },
+    "6DF2B2AD5526ECA45E44CF85299139F3": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 江苏中利集团股份有限公司预重整案债权申报",
+        "id": "6DF2B2AD5526ECA45E44CF85299139F3",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=6DF2B2AD5526ECA45E44CF85299139F3"
+    },
+    "38E9037A90AB746EDCC91C8B8C1746DF": {
+        "search_key": "三圣实业",
+        "date": "2019-12-25",
+        "title": "[裁判文书] （2019）渝0109破17号告知债务人",
+        "id": "38E9037A90AB746EDCC91C8B8C1746DF",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=38E9037A90AB746EDCC91C8B8C1746DF"
+    },
+    "809261ADC695307EB1018736D3CC1782": {
+        "search_key": "三圣实业",
+        "date": "2019-12-25",
+        "title": "[裁判文书] （2019）渝0109破17号受理债权人",
+        "id": "809261ADC695307EB1018736D3CC1782",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=809261ADC695307EB1018736D3CC1782"
+    },
+    "5D0FDDCB3568DBD008AD0179BFD8BBDB": {
+        "search_key": "三圣实业",
+        "date": "2019-12-19",
+        "title": "[裁判文书] （2019）渝0109破17号受理债权人",
+        "id": "5D0FDDCB3568DBD008AD0179BFD8BBDB",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=5D0FDDCB3568DBD008AD0179BFD8BBDB"
+    },
+    "31A33B0999B2041F6B9B14B4EF825508": {
+        "search_key": "三圣实业",
+        "date": "2019-12-19",
+        "title": "[裁判文书] （2019）渝0109破17号指定管理人",
+        "id": "31A33B0999B2041F6B9B14B4EF825508",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=31A33B0999B2041F6B9B14B4EF825508"
+    },
+    "07691F78F15D6A898FE1B8A9E7DD4825": {
+        "search_key": "三圣实业",
+        "date": "2019-11-20",
+        "title": "[裁判文书] （2019）渝0109破申16号受理债权",
+        "id": "07691F78F15D6A898FE1B8A9E7DD4825",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=07691F78F15D6A898FE1B8A9E7DD4825"
+    },
+    "B7047EC89058820890582DCCF004F530": {
+        "search_key": "三圣实业",
+        "date": "2019-06-25",
+        "title": "[裁判文书] （2019）渝0109破申5号收到破产清",
+        "id": "B7047EC89058820890582DCCF004F530",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcws/wsxq?id=B7047EC89058820890582DCCF004F530"
+    },
+    "5A4E5E89AA9B9940C0B043B9C54D9161": {
+        "search_key": "中利集团",
+        "date": "2023-09-01",
+        "title": "[预重整公告] 江苏中利集团股份有限公司预重整案财务顾问",
+        "id": "5A4E5E89AA9B9940C0B043B9C54D9161",
+        "url": "https://pccz.court.gov.cn/pcajxxw/yczgg/ggxq?yczgg=5A4E5E89AA9B9940C0B043B9C54D9161"
+    },
+    "be77ce84c4204ad8ada521c80884227d": {
+        "search_key": "中通国脉",
+        "date": "2024-07-05",
+        "title": "[公开案件] （2024）吉01破申41号",
+        "id": "be77ce84c4204ad8ada521c80884227d",
+        "url": "https://pccz.court.gov.cn/pcajxxw/gkaj/gkajxq?id=be77ce84c4204ad8ada521c80884227d"
+    },
+    "789AC580ABA5BDE137037CDBC7EE6EE0": {
+        "search_key": "仁东控股",
+        "date": "2024-07-05",
+        "title": "[案件公告] （2024）粤01破申251号仁东控股股份",
+        "id": "789AC580ABA5BDE137037CDBC7EE6EE0",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=789AC580ABA5BDE137037CDBC7EE6EE0"
+    }
+}
