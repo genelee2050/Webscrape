@@ -124,3 +124,5 @@ if __name__ == "__main__":
             time.sleep(60)
         except requests.exceptions.ConnectionError:
             time.sleep(300)
+        except Exception as e:
+            print(e)
