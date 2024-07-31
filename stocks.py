@@ -121,7 +121,7 @@ if __name__ == "__main__":
         try:
             main_loop()
             print("round complete")
-            time.sleep(60)
+            time.sleep(30)
         except requests.exceptions.ConnectionError:
             time.sleep(300)
         except Exception as e:
