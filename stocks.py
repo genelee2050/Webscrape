@@ -1,4 +1,5 @@
 import json
+import random
 import re
 import time
 from datetime import datetime
@@ -8,12 +9,20 @@ from bs4 import BeautifulSoup
 
 from wework_bot import WeBot
 
+s = requests.Session()
+s.headers.update(
+    {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+    }
+)
+
 
 def main_loop():
     history = load_history()
     bot = WeBot()
     has_new_entry = False
     for key in get_search_keys():
+        time.sleep(random.random())
         for entry in get_record_list(1, key):
             if entry["id"] not in history or entry["date"] != history[entry["id"]]["date"]:
                 if entry["id"] in history and entry["date"] != history[entry["id"]]["date"]:
@@ -43,13 +52,14 @@ def get_search_keys():
     with open("search_keys.txt", "r", encoding="utf-8") as f:
         for line in f.readlines():
             search_keys.append(line.strip())
+    random.shuffle(search_keys)
     return search_keys
 
 
 def get_record_list(page_num, search_key):
     url = "https://pccz.court.gov.cn/pcajxxw/searchKey/gjsslb"
     data = {"pageNum": page_num, "search": search_key}
-    response = requests.post(url, json=data)
+    response = s.post(url, json=data)
     response.raise_for_status()
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -118,12 +128,17 @@ def parse_url_type(case_type, id):
 
 
 if __name__ == "__main__":
+    IS_TESTING = False
     while True:
+        hour = datetime.now().hour
+        if (hour > 21 or hour < 8) and not IS_TESTING:
+            print(f"time to sleep, it's {hour} o'clock")
+            time.sleep(3600)
+            continue
         try:
             main_loop()
             print("round complete")
-            time.sleep(30)
-        except requests.exceptions.ConnectionError:
-            time.sleep(300)
+            time.sleep(random.randint(15, 30))
         except Exception as e:
             print(e)
+            time.sleep(random.randint(150, 300))
