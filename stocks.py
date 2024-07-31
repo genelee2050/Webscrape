@@ -50,6 +50,7 @@ def get_record_list(page_num, search_key):
     url = "https://pccz.court.gov.cn/pcajxxw/searchKey/gjsslb"
     data = {"pageNum": page_num, "search": search_key}
     response = requests.post(url, json=data)
+    response.raise_for_status()
     soup = BeautifulSoup(response.content, "html.parser")
 
     data_list = []
